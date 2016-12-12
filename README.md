@@ -10,8 +10,12 @@ We can take inspiration from such sources as:
 
 Tinder for Politics
 ------------------
-We're planning to create an app which looks like Tinder, but instead of matching with other people, you match with political statements. By swiping left or right, you can denote whether you agree with a statement.
+We're planning to create an app which looks like Tinder, but instead of matching with other people, you match with political statements. By swiping left or right, you can denote whether you agree with a statement. This is inspired by http://www.voter.xyz/, which can be downloaded for [iPhone](https://itunes.apple.com/us/app/voter-matchmaking-for-politics/id933655920?mt=8&ign-mpt=uo%3D4) or [Android](https://play.google.com/store/apps/details?id=app.voter.xyz).
 
 Facebook Feed Comparison
 ------------------
 We hope to create a website similar to http://graphics.wsj.com/blue-feed-red-feed/, but focused on the Netherlands.
+
+Discussing Opposing Views
+------------------
+It would be great if two people with opposing political views could be connected, so they can get to know each other and try to understand each other's views. This could be similar to what [hey.ai](http://hey.ai/) is doing, namely a Facebook Messenger chatbot to connect people. Or more like [Hi From The Other Side](https://www.hifromtheotherside.com/).
