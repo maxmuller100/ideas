@@ -8,6 +8,7 @@ We can take inspiration from such sources as:
 - www.progcode.co
 - http://www.bernkit.com/
 - http://www.debugpolitics.com/
+- http://politecho.org/
 
 #### Tinder for Politics
 We're planning to create an app which looks like Tinder, but instead of matching with other people, you match with political statements. By swiping left or right, you can denote whether you agree with a statement. This is inspired by http://www.voter.xyz/, which can be downloaded for [iPhone](https://itunes.apple.com/us/app/voter-matchmaking-for-politics/id933655920?mt=8&ign-mpt=uo%3D4) or [Android](https://play.google.com/store/apps/details?id=app.voter.xyz).
